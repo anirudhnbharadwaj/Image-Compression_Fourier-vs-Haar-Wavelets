@@ -48,4 +48,3 @@ function haarimage = haartrans(im, hmat)
     haarimage = cell2mat(haarcells) ;
 
 end
-
